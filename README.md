@@ -1,11 +1,14 @@
 
 
 
+
+<h1 align="center">Victor Richtmann</h1>
+<h3 align="center">A passionate frontend developer and game developer from Brasil</h3>
+
 <img align='left' src='https://raw.githubusercontent.com/vrichtmann/vrichtmann/main/capa_math_2050.png'>
 
 <br/>
 <br/>
-
 
 
 ![Victor Richtmann github stats](https://github-readme-stats.vercel.app/api?username=vrichtmann&count_private=true&show_icons=true&theme=dracula)
