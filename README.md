@@ -1,7 +1,7 @@
 
 
 
-<img align='left' src='https://github.com/tsmsp/tsmsp/blob/main/github-profile-tsm.png'>
+
 <br/>
 <br/>
 
