@@ -10,6 +10,7 @@
 <br/>
 <br/>
 
+<p align="left"> <a href="https://twitter.com/tsm_sp" target="blank"><img src="https://img.shields.io/twitter/follow/tsm_sp?logo=twitter&style=for-the-badge" alt="tsm_sp" /></a> </p>
 
 ![Victor Richtmann github stats](https://github-readme-stats.vercel.app/api?username=vrichtmann&count_private=true&show_icons=true&theme=dracula)
 [![trophy](https://github-profile-trophy.vercel.app/?username=vrichtmann&theme=onedark)](https://github.com/vrichtmann/github-profile-trophy)
