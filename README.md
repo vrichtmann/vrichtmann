@@ -7,11 +7,11 @@
 
 <p align="center" align="left"><img align="center" align='left' src='https://raw.githubusercontent.com/vrichtmann/vrichtmann/main/capa_math_2050.png'> </p>
 
-<br>
-
 <p align="left"> <a href="https://twitter.com/VRichtmann" target="blank"><img src="https://img.shields.io/twitter/follow/VRichtmann?logo=twitter&style=for-the-badge" alt="VRichtmann" /></a> </p>
 
+
 ![Victor Richtmann github stats](https://github-readme-stats.vercel.app/api?username=vrichtmann&count_private=true&show_icons=true&theme=dracula)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=vrichtmann&theme=onedark)](https://github.com/vrichtmann/github-profile-trophy)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrichtmann&" alt="tsmsp" /></p>
 <!--[![tsmsp wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
