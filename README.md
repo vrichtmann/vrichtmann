@@ -6,7 +6,7 @@
 <br/>
 
 
-![Victor Richtmann github stats](https://github-readme-stats.vercel.app/api?username=tsmsp&count_private=true&show_icons=true&theme=onedark)
+![Victor Richtmann github stats](https://github-readme-stats.vercel.app/api?username=vrichtmann&count_private=true&show_icons=true&theme=onedark)
 
 
 
