@@ -7,7 +7,7 @@
 
 <img align='left' src='https://raw.githubusercontent.com/vrichtmann/vrichtmann/main/capa_math_2050.png'>
 
-
+<b>
 
 <p align="left"> <a href="https://twitter.com/VRichtmann" target="blank"><img src="https://img.shields.io/twitter/follow/VRichtmann?logo=twitter&style=for-the-badge" alt="VRichtmann" /></a> </p>
 
