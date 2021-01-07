@@ -5,9 +5,11 @@
 <h1 align="center">Victor Richtmann</h1>
 <h3 align="center">A passionate frontend developer and game developer from Brasil</h3>
 
-<img align='left' src='https://raw.githubusercontent.com/vrichtmann/vrichtmann/main/capa_math_2050.png'>
+<p align="center" align="left"><img align='left' src='https://raw.githubusercontent.com/vrichtmann/vrichtmann/main/capa_math_2050.png'> </p>
 
-<b>
+<br>
+<br>
+
 
 <p align="left"> <a href="https://twitter.com/VRichtmann" target="blank"><img src="https://img.shields.io/twitter/follow/VRichtmann?logo=twitter&style=for-the-badge" alt="VRichtmann" /></a> </p>
 
