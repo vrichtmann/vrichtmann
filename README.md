@@ -11,9 +11,9 @@
 <p align="center">
 
    <td align="center">
-      <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=vrichtmann&theme=onedark" alt="vrichtmann"/></p>
-      <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vrichtmann&count_private=true&show_icons=true&theme=dracula" alt="vrichtmann"/></p>
-      <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrichtmann&theme=onedark" alt="tsmsp" /></p>
+      <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=vrichtmann&theme=tokyonight" alt="vrichtmann"/></p>
+      <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vrichtmann&count_private=true&show_icons=true&theme=tokyonight" alt="vrichtmann"/></p>
+      <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrichtmann&theme=tokyonight" alt="tsmsp" /></p>
    </td>
 
 </p>
