@@ -7,8 +7,9 @@
 <br/>
 
 
+<div>
 ![Victor Richtmann github stats](https://github-readme-stats.vercel.app/api?username=vrichtmann&count_private=true&show_icons=true&theme=dracula)
-
+</div>
 
 
 <!--[![tsmsp wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
