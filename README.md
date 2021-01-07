@@ -12,8 +12,8 @@
 
 
 ![Victor Richtmann github stats](https://github-readme-stats.vercel.app/api?username=vrichtmann&count_private=true&show_icons=true&theme=dracula)
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=vrichtmann&theme=onedark)](https://github.com/vrichtmann/github-profile-trophy)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrichtmann&" alt="tsmsp" /></p>
 <!--[![tsmsp wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
