@@ -1,6 +1,7 @@
 
 
 
+<img align='left' src='https://raw.githubusercontent.com/vrichtmann/vrichtmann/main/capa_math.png'>
 
 <br/>
 <br/>
