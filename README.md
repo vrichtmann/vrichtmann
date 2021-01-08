@@ -20,7 +20,7 @@
 
 
 <!--[![tsmsp wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)-->
-<a href="https://discord.gg/vrichtmann#0323" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="vrichtmann#0323" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +31,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vrichtmann.vrichtmann)
 
 <p align="left"> <a href="https://twitter.com/VRichtmann" target="blank"><img src="https://img.shields.io/twitter/follow/VRichtmann?logo=twitter&style=for-the-badge" alt="VRichtmann" /></a> </p>
+
+<a href="https://discord.gg/vrichtmann#0323" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="vrichtmann#0323" height="30" width="40" /></a>
